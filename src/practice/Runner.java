@@ -27,7 +27,7 @@ public class Runner
 		Thread.sleep(15000);
 		System.out.println("Close");
 		cust_login.closeBrowser();
-		System.out.println("VijayGangrade");
+		
 		}
 
 }
